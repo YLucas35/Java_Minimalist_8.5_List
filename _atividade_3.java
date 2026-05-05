@@ -2,7 +2,7 @@ package Java_Minimalista_85_Desafio_Livre;
 
 import java.util.Scanner;
 
-public class _atividade_4 {
+public class _atividade_3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
